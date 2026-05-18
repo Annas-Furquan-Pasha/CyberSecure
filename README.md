@@ -36,7 +36,6 @@ The chatbot includes prompt injection protection, topic validation, WhatsApp-sty
 
 ## Homepage
 
-Add screenshot here:
 
 ```text
 assets/homepage.png
@@ -76,7 +75,7 @@ CyberSecureAI/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cybersecure-ai-assistant.git
+git clone https://github.com/Annas-Furquan-Pasha/cybersecure-ai-assistant.git
 
 cd cybersecure-ai-assistant
 ```
@@ -263,7 +262,7 @@ MIT License
 
 # 👨‍💻 Author
 
-Your Name
+Annas Furquan pasha
 
 GitHub:
 https://github.com/Annas-Furquan-Pasha
